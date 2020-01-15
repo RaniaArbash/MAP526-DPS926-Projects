@@ -15,13 +15,21 @@ namespace Week2Lab
     {
         public MainPage()
         {
+
+
             InitializeComponent();
+            if (Device.OS == TargetPlatform.iOS)
+            {
+
+                Padding = new Thickness(0, 90, 0, 0);
+            }
+
         }
 
-        void Handle_ValueChanged(object sender, ValueChangedEventArgs e) {
-            label.Text = String.Format("Value is {0:F2}", e.NewValue);
+        //void Handle_ValueChanged(object sender, ValueChangedEventArgs e) {
+        //    label.Text = String.Format("Value is {0:F2}", e.NewValue);
                 
-        }
+        //}
 
     }
 }

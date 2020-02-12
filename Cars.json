@@ -1,12 +1,12 @@
 [
-{"id" : 1, "CarModel": "Nissan","CarModel2" : "Altima" , "Year":"2015"},
-{"id" : 2, "CarModel": "Mazda", "CarModel2" : "Mazda6" ,"Year":"2019"},
-{"id" : 3, "CarModel": "Ford","CarModel2" : "Focus" , "Year":"2020"},
-{"id" : 4, "CarModel": "Honda", "CarModel2" : "Civic" ,"Year":"2014"},
-{"id" : 5, "CarModel": "Kia","CarModel2" : "Foret" , "Year":"2015"},
-{"id" : 6, "CarModel": "Toyota","CarModel2" : "Camry" , "Year":"2017"},
-{"id" : 7, "CarModel": "Mitsubishi", "CarModel2" : "Lancer" ,"Year":"2018"},
-{"id" : 8, "CarModel": "Subaru", "CarModel2" : "Impreza" ,"Year":"2014"},
-{"id" : 9, "CarModel": "Volkswagen","CarModel2" : "Golf" , "Year":"2018"},
-{"id" : 10, "CarModel": "Chevy","CarModel2" : "Sonic" , "Year":"2016"}
+{"id" : 1, "CarModel": "Nissan","CarModel2" : "Altima" , "Year":2015},
+{"id" : 2, "CarModel": "Mazda", "CarModel2" : "Mazda6" ,"Year":2019},
+{"id" : 3, "CarModel": "Ford","CarModel2" : "Focus" , "Year":2020},
+{"id" : 4, "CarModel": "Honda", "CarModel2" : "Civic" ,"Year":2014},
+{"id" : 5, "CarModel": "Kia","CarModel2" : "Foret" , "Year":2015},
+{"id" : 6, "CarModel": "Toyota","CarModel2" : "Camry" , "Year":2017},
+{"id" : 7, "CarModel": "Mitsubishi", "CarModel2" : "Lancer" ,"Year":2018},
+{"id" : 8, "CarModel": "Subaru", "CarModel2" : "Impreza" ,"Year":2014},
+{"id" : 9, "CarModel": "Volkswagen","CarModel2" : "Golf" , "Year":2018},
+{"id" : 10, "CarModel": "Chevy","CarModel2" : "Sonic" , "Year":2016}
 ]
